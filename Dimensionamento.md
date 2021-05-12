@@ -1,4 +1,3 @@
 # Promozione Turistica
 
-L'applicazione realizzata vuole promuovere il turismo riscoprendo luoghi poco conosciuti dell'Italia, è quindi è un app che si estenderà su tutto il territorio italiano 
-e si stima che sarà utilizzata da 100.000 utenti l'anno.
+L'applicazione realizzata vuole promuovere il turismo italiano riscoprendo luoghi poco conosciuti di cui l'Italia è ricca. Questa app comprenderà luoghi nascosti, meno famosi del nostro territorio e si stima che sarà utilizzata da circa 50.000 utenti l'anno.
