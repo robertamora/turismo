@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T14:04:39.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="IqKYjqSDtuQctMjNo7Uc" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-13T16:32:44.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ow4TdswPXK0hPJnC2ynu" version="14.6.12" type="github">
   <diagram id="v6q_zTt2mOUD9CZzJHrG" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
           <mxGeometry x="430" y="40" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="RE-NAV8zPndVqWDd8_9J-6" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Podcast&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_podcast&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;nome&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;audio&lt;br&gt;durata&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="350" width="180" height="120" as="geometry" />
+          <mxGeometry x="480" y="350" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Jss5HmbVKNGf19wAgwUY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=ERmany;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Jss5HmbVKNGf19wAgwUY-1" target="RE-NAV8zPndVqWDd8_9J-6" edge="1">
           <mxGeometry relative="1" as="geometry">
