@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-16T20:26:17.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="pKWMjmk1vuT8SBw-jXqn" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-16T20:29:11.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="1uVdYwYib2Fo7w9zAMxv" version="14.6.13" type="github">
   <diagram id="onDglWTA5hpyqjm8RfDw" name="Page-1">
     <mxGraphModel dx="871" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -237,7 +237,7 @@
           <mxGeometry x="166.62" y="519" width="212" height="396" as="geometry" />
         </mxCell>
         <mxCell id="znbyDa7xrFpO8QKfd5y--16" value="Italiano" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iComboBox;spacingTop=2;spacingLeft=2;align=left;strokeColor=#444444;fontColor=#666666;buttonText=;fontSize=8;fillColor=#dddddd;fillColor2=#3D5565;" parent="1" vertex="1">
-          <mxGeometry x="291" y="564.39" width="49.5" height="15" as="geometry" />
+          <mxGeometry x="283.12" y="563.0699999999999" width="49.5" height="15" as="geometry" />
         </mxCell>
         <mxCell id="znbyDa7xrFpO8QKfd5y--18" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.account_portal" parent="1" vertex="1">
           <mxGeometry x="345" y="559.64" width="23" height="21.86" as="geometry" />
@@ -339,8 +339,8 @@
         <mxCell id="6crLyNDoP0vlK_IK_3bL-108" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22I%20luoghi%20del%20cinema%26%2310%3B%26%2310%3B%22%20style%3D%22shape%3Drect%3BfillColor%3D%23ffffff%3BstrokeColor%3D%23eeeeee%3Bshadow%3D0%3BresizeWidth%3D1%3Balign%3Dright%3BfontSize%3D13%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22478%22%20y%3D%221068%22%20width%3D%22196%22%20height%3D%2273%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22shape%3Dimage%3Bhtml%3D1%3BverticalAlign%3Dtop%3BverticalLabelPosition%3Dbottom%3BlabelBackgroundColor%3D%23ffffff%3BimageAspect%3D0%3Baspect%3Dfixed%3Bimage%3Dhttps%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Fionicons%2F512%2Ficon-image-128.png%3BfontSize%3D10%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22490.5%22%20y%3D%221084%22%20width%3D%2252%22%20height%3D%2252%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22ISCRIVITI%22%20style%3D%22rounded%3D1%3Bhtml%3D1%3Bshadow%3D0%3Bdashed%3D0%3BwhiteSpace%3Dwrap%3BfontSize%3D10%3Balign%3Dcenter%3BstrokeColor%3D%2382b366%3BstrokeWidth%3D2%3BfillColor%3D%23d5e8d4%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22565%22%20y%3D%221115%22%20width%3D%22105.5%22%20height%3D%2216.88%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-128.png;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="498" y="1139.22" width="46.56" height="46.56" as="geometry" />
         </mxCell>
-        <mxCell id="6crLyNDoP0vlK_IK_3bL-109" value="ISCRITTO" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;strokeColor=#82b366;strokeWidth=2;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1164" width="105.5" height="16.88" as="geometry" />
+        <mxCell id="6crLyNDoP0vlK_IK_3bL-109" value="ISCRITTO" style="rounded=0;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;strokeWidth=2;fillColor=#E6E6E6;arcSize=50;glass=0;strokeColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="589.5" y="1168" width="70" height="16.88" as="geometry" />
         </mxCell>
         <mxCell id="6crLyNDoP0vlK_IK_3bL-110" value="I luoghi del cinema&#xa;&#xa;" style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=0;resizeWidth=1;align=right;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="481" y="1266" width="197" height="66" as="geometry" />
@@ -349,7 +349,7 @@
           <mxGeometry x="502.5" y="1209.5" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="6crLyNDoP0vlK_IK_3bL-112" value="ISCRIVITI" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="564.5" y="1304" width="105.5" height="16.88" as="geometry" />
+          <mxGeometry x="589.5" y="1299" width="70.5" height="16.88" as="geometry" />
         </mxCell>
         <mxCell id="6crLyNDoP0vlK_IK_3bL-113" value="I luoghi del cinema&#xa;&#xa;" style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=0;resizeWidth=1;align=right;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="480" y="1061" width="196" height="68" as="geometry" />
@@ -358,13 +358,13 @@
           <mxGeometry x="498" y="1068.44" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="6crLyNDoP0vlK_IK_3bL-115" value="ISCRIVITI" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="571.5" y="1097.56" width="105.5" height="16.88" as="geometry" />
+          <mxGeometry x="589" y="1097.56" width="70.5" height="16.88" as="geometry" />
         </mxCell>
         <mxCell id="6crLyNDoP0vlK_IK_3bL-116" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-128.png;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="499.56" y="1282" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="6crLyNDoP0vlK_IK_3bL-117" value="ISCRIVITI" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="568.5" y="1233" width="105.5" height="16.88" as="geometry" />
+          <mxGeometry x="589.5" y="1237.62" width="70.5" height="16.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
