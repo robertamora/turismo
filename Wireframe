@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T08:52:17.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="TYK366mW-SSss8NIag9a" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-17T08:52:53.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="6XKxFXbcl4qmr0vtKoKh" version="14.6.13" type="github">
   <diagram id="onDglWTA5hpyqjm8RfDw" name="Page-1">
-    <mxGraphModel dx="694" dy="386" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1157" dy="643" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -367,10 +367,10 @@
           <mxGeometry x="590.5" y="1236.62" width="70.5" height="16.88" as="geometry" />
         </mxCell>
         <mxCell id="mNJ9ShervbuJXxl0DBbE-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.account_portal" vertex="1" parent="1">
-          <mxGeometry x="941.5" y="995.0000000000001" width="23" height="21.86" as="geometry" />
+          <mxGeometry x="942.5" y="1011.0000000000001" width="23" height="21.86" as="geometry" />
         </mxCell>
         <mxCell id="mNJ9ShervbuJXxl0DBbE-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#212529;labelBackgroundColor=none;fontSize=11;align=center;" vertex="1" parent="1">
-          <mxGeometry x="774" y="1026.86" width="194" height="20" as="geometry" />
+          <mxGeometry x="775" y="1042.86" width="194" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mNJ9ShervbuJXxl0DBbE-3" value="&lt;font style=&quot;font-size: 11px&quot; color=&quot;#808080&quot;&gt;Luoghi&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;" vertex="1" parent="mNJ9ShervbuJXxl0DBbE-2">
           <mxGeometry width="50" height="20" relative="1" as="geometry" />
@@ -386,28 +386,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mNJ9ShervbuJXxl0DBbE-6" value="" style="dashed=0;shape=mxgraph.gmdl.preferences;strokeColor=#ffffff;strokeWidth=2;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="781.86" y="1000.86" width="19" height="16" as="geometry" />
+          <mxGeometry x="782.86" y="1016.86" width="19" height="16" as="geometry" />
         </mxCell>
         <mxCell id="mNJ9ShervbuJXxl0DBbE-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="764" y="954" width="214" height="396" as="geometry" />
+          <mxGeometry x="765" y="970" width="214" height="396" as="geometry" />
         </mxCell>
         <mxCell id="mNJ9ShervbuJXxl0DBbE-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/add-128.png;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="930.5" y="843" width="22" height="22" as="geometry" />
         </mxCell>
         <mxCell id="mNJ9ShervbuJXxl0DBbE-97" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-play-128.png;fontSize=11;strokeColor=#FFFF00;fillColor=#FFFF00;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="781.86" y="1066" width="26" height="26" as="geometry" />
+          <mxGeometry x="782.86" y="1082" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="mNJ9ShervbuJXxl0DBbE-98" value="&lt;span style=&quot;font-size: 12px&quot;&gt;FONTANA NOVA&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="811" y="1071" width="102" height="17" as="geometry" />
+          <mxGeometry x="812" y="1087" width="102" height="17" as="geometry" />
         </mxCell>
         <mxCell id="mNJ9ShervbuJXxl0DBbE-100" value="" style="dashed=0;shape=mxgraph.gmdl.star;strokeWidth=2;labelBorderColor=#FFFF00;strokeColor=#FFFF00;fillColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="946.86" y="1113.5" width="16" height="16" as="geometry" />
+          <mxGeometry x="947.86" y="1129.5" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="mNJ9ShervbuJXxl0DBbE-101" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-play-128.png;fontSize=11;strokeColor=#FFFF00;fillColor=#FFFF00;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="781.86" y="1109" width="26" height="26" as="geometry" />
+          <mxGeometry x="782.86" y="1125" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="mNJ9ShervbuJXxl0DBbE-103" value="GIARDINO DEI TAROCCHI" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="804" y="1113.5" width="145" height="17" as="geometry" />
+          <mxGeometry x="805" y="1129.5" width="145" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
