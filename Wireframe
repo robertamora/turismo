@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T16:44:08.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="IxGgFEGYbfnNr2wRel90" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-19T13:38:36.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="z1-aCy-thPSZVA3zv5YO" version="14.6.13" type="github">
   <diagram id="onDglWTA5hpyqjm8RfDw" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -202,8 +202,8 @@
         <mxCell id="eIcUHx5XSCvGVd8_1F6q-224" value="&lt;span style=&quot;color: rgb(128 , 128 , 128) ; font-family: &amp;#34;trip sans vf&amp;#34; , &amp;#34;trip sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 9px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Via di Fontana Nuova&lt;/span&gt;&lt;br style=&quot;color: rgb(128 , 128 , 128) ; font-family: &amp;#34;trip sans vf&amp;#34; , &amp;#34;trip sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 9px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(128 , 128 , 128) ; font-family: &amp;#34;trip sans vf&amp;#34; , &amp;#34;trip sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 9px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="478" y="756" width="97" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="eIcUHx5XSCvGVd8_1F6q-226" value="&lt;span style=&quot;color: rgb(128 , 128 , 128) ; font-family: &amp;#34;trip sans vf&amp;#34; , &amp;#34;trip sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 9px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Via di Porta Castello 35&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="482.5" y="687" width="103" height="16" as="geometry" />
+        <mxCell id="eIcUHx5XSCvGVd8_1F6q-226" value="&lt;span style=&quot;color: rgb(128 , 128 , 128) ; font-family: &amp;#34;trip sans vf&amp;#34; , &amp;#34;trip sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 9px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Via Valverde 23&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="483.5" y="692.49" width="73" height="16" as="geometry" />
         </mxCell>
         <mxCell id="eIcUHx5XSCvGVd8_1F6q-260" value="Canali" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="397" y="457" width="41" height="16" as="geometry" />
@@ -279,10 +279,10 @@
           <mxGeometry x="274.12" y="686.28" width="49" height="52" as="geometry" />
         </mxCell>
         <mxCell id="znbyDa7xrFpO8QKfd5y--32" value="&lt;b&gt;Per vedere i punti di interesse&lt;br&gt;vicino alla tua posizione&amp;nbsp;&lt;br&gt;corrente clicca qui&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="169" y="749.28" width="181" height="46" as="geometry" />
+          <mxGeometry x="175" y="759" width="181" height="46" as="geometry" />
         </mxCell>
         <mxCell id="znbyDa7xrFpO8QKfd5y--33" value="&lt;span style=&quot;font-size: 10px&quot;&gt;VAI&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="224.4" y="804.78" width="70.19" height="22" as="geometry" />
+          <mxGeometry x="229.9" y="826" width="70.19" height="22" as="geometry" />
         </mxCell>
         <mxCell id="6crLyNDoP0vlK_IK_3bL-1" value="Inserirà le sue preferenze riguardo&amp;nbsp;&lt;br&gt;ai monumenti e località&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="471" y="22" width="197" height="32" as="geometry" />
@@ -470,7 +470,7 @@
           <mxGeometry x="777.22" y="1012.0699999999999" width="19" height="16" as="geometry" />
         </mxCell>
         <mxCell id="l8vlGstwrfVdpS5H52ob-24" value="Biblioteche di Roma&#xa;" style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=0;resizeWidth=1;align=right;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="770.86" y="1107" width="195" height="77" as="geometry" />
+          <mxGeometry x="767" y="1116.94" width="195" height="77" as="geometry" />
         </mxCell>
         <mxCell id="l8vlGstwrfVdpS5H52ob-26" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22I%20luoghi%20del%20cinema%26%2310%3B%26%2310%3B%22%20style%3D%22shape%3Drect%3BfillColor%3D%23ffffff%3BstrokeColor%3D%23eeeeee%3Bshadow%3D0%3BresizeWidth%3D1%3Balign%3Dright%3BfontSize%3D13%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22478%22%20y%3D%221068%22%20width%3D%22196%22%20height%3D%2273%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22shape%3Dimage%3Bhtml%3D1%3BverticalAlign%3Dtop%3BverticalLabelPosition%3Dbottom%3BlabelBackgroundColor%3D%23ffffff%3BimageAspect%3D0%3Baspect%3Dfixed%3Bimage%3Dhttps%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Fionicons%2F512%2Ficon-image-128.png%3BfontSize%3D10%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22490.5%22%20y%3D%221084%22%20width%3D%2252%22%20height%3D%2252%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22ISCRIVITI%22%20style%3D%22rounded%3D1%3Bhtml%3D1%3Bshadow%3D0%3Bdashed%3D0%3BwhiteSpace%3Dwrap%3BfontSize%3D10%3Balign%3Dcenter%3BstrokeColor%3D%2382b366%3BstrokeWidth%3D2%3BfillColor%3D%23d5e8d4%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22565%22%20y%3D%221115%22%20width%3D%22105.5%22%20height%3D%2216.88%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-128.png;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="785.58" y="1115.44" width="46.56" height="46.56" as="geometry" />
@@ -479,10 +479,10 @@
           <mxGeometry x="1021" y="964" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="l8vlGstwrfVdpS5H52ob-34" value="" style="shape=rect;strokeColor=none;labelBackgroundColor=none;fontColor=#FFFFFF;html=0;fillColor=#B3B3B3;" parent="1" vertex="1">
-          <mxGeometry x="767.86" y="1058" width="198" height="24" as="geometry" />
+          <mxGeometry x="767.86" y="1058" width="198" height="25" as="geometry" />
         </mxCell>
         <mxCell id="l8vlGstwrfVdpS5H52ob-35" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.marginRect;rx=3;ry=3;rectMargin=5;strokeColor=none;" parent="l8vlGstwrfVdpS5H52ob-34" vertex="1">
-          <mxGeometry width="198" height="24" as="geometry" />
+          <mxGeometry width="198" height="25" as="geometry" />
         </mxCell>
         <mxCell id="l8vlGstwrfVdpS5H52ob-36" value="Search" style="shape=mxgraph.ios7.icons.looking_glass;strokeColor=#e0e0e0;fillColor=none;fontColor=#e0e0e0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=6;fontStyle=0;spacingTop=2;" parent="l8vlGstwrfVdpS5H52ob-34" vertex="1">
           <mxGeometry x="0.5" y="0.5" width="6" height="6" relative="1" as="geometry">
@@ -496,7 +496,7 @@
           <mxGeometry x="888" y="1151" width="70" height="16.88" as="geometry" />
         </mxCell>
         <mxCell id="l8vlGstwrfVdpS5H52ob-44" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=none;labelBackgroundColor=none;fontColor=#0000CC;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="768" y="1079" width="198" height="32" as="geometry" />
+          <mxGeometry x="767" y="1084.94" width="198" height="32" as="geometry" />
         </mxCell>
         <mxCell id="l8vlGstwrfVdpS5H52ob-45" value="Suggeriti" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=1;fontColor=#666666;" parent="l8vlGstwrfVdpS5H52ob-44" vertex="1">
           <mxGeometry x="5" width="95" height="32" as="geometry" />
