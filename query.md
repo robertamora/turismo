@@ -1,3 +1,4 @@
+# Query
 Sviluppi in linguaggio SQL delle query che consentano di ottenere le seguenti 
 informazioni:
 ○ tutti i canali tematici a cui si è iscritto l’utente XYZ
