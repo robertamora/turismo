@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T12:21:32.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="FXcs05g4Nj0VquIF3Ie9" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T12:29:13.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="WPvsJrgl7qn5Iafw1w_v" version="14.6.13" type="github">
   <diagram id="onDglWTA5hpyqjm8RfDw" name="Page-1">
     <mxGraphModel dx="1021" dy="567" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -291,7 +291,7 @@
           <mxGeometry x="378.62" y="230" width="63.38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="6crLyNDoP0vlK_IK_3bL-3" value="Per poter utilizzare l&#39;applicazione&lt;br&gt;la geolocalizzazione dovrà essere&amp;nbsp;&lt;br&gt;attiva, quindi l&#39;utente se non consentirà&amp;nbsp;&lt;br&gt;non vedrà nulla" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="753.86" y="4" width="220" height="60" as="geometry" />
+          <mxGeometry x="757.14" y="5" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6crLyNDoP0vlK_IK_3bL-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;align=left;" parent="1" vertex="1">
           <mxGeometry x="471" y="972" width="214" height="396" as="geometry" />
