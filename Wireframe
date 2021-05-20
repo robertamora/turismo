@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T11:47:40.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="CczetSgnXMy29boinvAy" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T12:21:32.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="FXcs05g4Nj0VquIF3Ie9" version="14.6.13" type="github">
   <diagram id="onDglWTA5hpyqjm8RfDw" name="Page-1">
-    <mxGraphModel dx="868" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="567" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -398,7 +398,7 @@
           <mxGeometry x="1244.8600000000001" y="1075" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="60glKKd8_XzjO1B035KU-11" value="&lt;font color=&quot;#000000&quot;&gt;In questa pagina l&#39;utente potrà scegliere&lt;br&gt;la lingua, vedrà che si è registrato e&amp;nbsp;&lt;br&gt;in base alle preferenze scelte in&amp;nbsp;&lt;br&gt;fase di registrazione potrà&amp;nbsp;&lt;br&gt;visualizzare dei punti di interesse&amp;nbsp;&lt;br&gt;suggeriti. Inoltre per poter vedere&lt;br&gt;dei punti di interesse vicino alla posizione corrente&amp;nbsp;&lt;br&gt;dovrà cliccare sul bottone&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="146" y="932" width="281" height="116" as="geometry" />
+          <mxGeometry x="154" y="942" width="281" height="116" as="geometry" />
         </mxCell>
         <mxCell id="60glKKd8_XzjO1B035KU-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1071" y="513" width="214" height="396" as="geometry" />
@@ -493,7 +493,7 @@
           <mxGeometry x="780.29" y="1062" width="18" height="14" as="geometry" />
         </mxCell>
         <mxCell id="l8vlGstwrfVdpS5H52ob-41" value="ISCRITTO" style="rounded=0;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;strokeWidth=2;fillColor=#E6E6E6;arcSize=50;glass=0;strokeColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="878.5" y="1160" width="70" height="16.88" as="geometry" />
+          <mxGeometry x="883.86" y="1166" width="70" height="16.88" as="geometry" />
         </mxCell>
         <mxCell id="l8vlGstwrfVdpS5H52ob-44" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=none;labelBackgroundColor=none;fontColor=#0000CC;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="767" y="1084.94" width="198" height="32" as="geometry" />
