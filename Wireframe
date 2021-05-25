@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T14:28:36.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Ldo7UgzZkBYZ_6tBOzxz" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T14:29:30.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="k27Lx7va2CeWMwNhpdzF" version="14.7.0" type="github">
   <diagram id="onDglWTA5hpyqjm8RfDw" name="Page-1">
     <mxGraphModel dx="1447" dy="750" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -520,10 +520,10 @@
           <mxGeometry x="291" y="404" width="63" height="22" as="geometry" />
         </mxCell>
         <mxCell id="ZG4d29GLdXs1MnyMlR56-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;fontSize=10;align=left;fillColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="746.86" y="61" width="212" height="396" as="geometry" />
+          <mxGeometry x="755.75" y="72" width="212" height="406" as="geometry" />
         </mxCell>
         <mxCell id="ZG4d29GLdXs1MnyMlR56-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="754.36" y="97" width="197" height="324" as="geometry" />
+          <mxGeometry x="763.25" y="107" width="197" height="324" as="geometry" />
         </mxCell>
         <mxCell id="ZG4d29GLdXs1MnyMlR56-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;LOGIN&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="ZG4d29GLdXs1MnyMlR56-3" vertex="1">
           <mxGeometry width="51" height="20" relative="1" as="geometry">
@@ -557,7 +557,7 @@
         </mxCell>
         <mxCell id="ZG4d29GLdXs1MnyMlR56-10" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Accedi&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;fillColor=#3333FF;" parent="ZG4d29GLdXs1MnyMlR56-3" vertex="1">
           <mxGeometry y="1" width="108" height="24" relative="1" as="geometry">
-            <mxPoint x="55" y="-54" as="offset" />
+            <mxPoint x="45" y="-52" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZG4d29GLdXs1MnyMlR56-12" value="" style="shape=line;strokeWidth=2;html=1;resizeWidth=1;strokeColor=#3333FF;" parent="ZG4d29GLdXs1MnyMlR56-3" vertex="1">
