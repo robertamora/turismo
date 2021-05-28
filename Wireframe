@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T15:10:01.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="WOlYoAEbIK8vtCxwnH15" version="14.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-28T17:00:01.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="4AQCUw9KKn2utw5QKmYB" version="14.7.2" type="github" pages="2">
   <diagram id="onDglWTA5hpyqjm8RfDw" name="Page-1">
-    <mxGraphModel dx="868" dy="450" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="694" dy="314" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,7 +155,7 @@
           <mxGeometry x="475.5" y="597" width="158" height="16" as="geometry" />
         </mxCell>
         <mxCell id="eIcUHx5XSCvGVd8_1F6q-167" value="" style="shape=rect;fillColor=#e0e0e0;strokeColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="475.5" y="618" width="195" height="26" as="geometry" />
+          <mxGeometry x="474.5" y="617.28" width="195" height="26" as="geometry" />
         </mxCell>
         <mxCell id="eIcUHx5XSCvGVd8_1F6q-168" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Tarquinia&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.marginRect;rx=3;ry=3;rectMargin=5;strokeColor=none;" parent="eIcUHx5XSCvGVd8_1F6q-167" vertex="1">
           <mxGeometry width="195" height="23.63636363636364" as="geometry" />
@@ -176,7 +176,7 @@
           <mxGeometry x="474" y="793" width="196" height="77" as="geometry" />
         </mxCell>
         <mxCell id="eIcUHx5XSCvGVd8_1F6q-217" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-128.png;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="603.5" y="648" width="66" height="66" as="geometry" />
+          <mxGeometry x="603.5" y="655.28" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eIcUHx5XSCvGVd8_1F6q-218" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-128.png;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="603.5" y="731" width="66" height="66" as="geometry" />
@@ -200,7 +200,7 @@
           <mxGeometry x="478" y="756" width="97" height="28" as="geometry" />
         </mxCell>
         <mxCell id="eIcUHx5XSCvGVd8_1F6q-226" value="&lt;span style=&quot;color: rgb(128 , 128 , 128) ; font-family: &amp;#34;trip sans vf&amp;#34; , &amp;#34;trip sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 9px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Via Valverde 23&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="483.5" y="692.49" width="73" height="16" as="geometry" />
+          <mxGeometry x="484.5" y="685" width="73" height="16" as="geometry" />
         </mxCell>
         <mxCell id="eIcUHx5XSCvGVd8_1F6q-260" value="Canali" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="397" y="457" width="41" height="16" as="geometry" />
@@ -231,7 +231,7 @@
           <mxGeometry x="156" y="508" width="212" height="396" as="geometry" />
         </mxCell>
         <mxCell id="znbyDa7xrFpO8QKfd5y--16" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Italiano&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iComboBox;spacingTop=2;spacingLeft=2;align=left;strokeColor=#444444;fontColor=#666666;buttonText=;fontSize=8;fillColor=#dddddd;fillColor2=#3D5565;" parent="1" vertex="1">
-          <mxGeometry x="260" y="556" width="62.5" height="15" as="geometry" />
+          <mxGeometry x="263.25" y="551" width="62.5" height="15" as="geometry" />
         </mxCell>
         <mxCell id="znbyDa7xrFpO8QKfd5y--18" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.account_portal" parent="1" vertex="1">
           <mxGeometry x="333" y="552.28" width="23" height="21.86" as="geometry" />
@@ -240,43 +240,43 @@
           <mxGeometry x="166" y="581.28" width="198" height="18" as="geometry" />
         </mxCell>
         <mxCell id="znbyDa7xrFpO8QKfd5y--20" value="" style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=0;resizeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="164.5" y="604.35" width="98" height="76" as="geometry" />
+          <mxGeometry x="164.75" y="603.28" width="195.5" height="41.72" as="geometry" />
         </mxCell>
         <mxCell id="znbyDa7xrFpO8QKfd5y--21" value="" style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=0;resizeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="262.5" y="604.35" width="98" height="76" as="geometry" />
+          <mxGeometry x="164" y="686" width="196" height="40" as="geometry" />
         </mxCell>
         <mxCell id="znbyDa7xrFpO8QKfd5y--22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-128.png;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="219.5" y="617.28" width="38" height="38" as="geometry" />
+          <mxGeometry x="318" y="608" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="znbyDa7xrFpO8QKfd5y--23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-128.png;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="322.5" y="617.28" width="38" height="38" as="geometry" />
+          <mxGeometry x="318" y="689.9999999999999" width="38" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="znbyDa7xrFpO8QKfd5y--24" value="&lt;b style=&quot;font-size: 7px&quot;&gt;&lt;font style=&quot;font-size: 7px&quot;&gt;Castello di &lt;br&gt;Sammezzano&lt;br&gt;&amp;nbsp;(Toscana)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="171" y="610.2800000000001" width="54" height="52" as="geometry" />
+        <mxCell id="znbyDa7xrFpO8QKfd5y--24" value="&lt;b style=&quot;font-size: 7px&quot;&gt;&lt;font style=&quot;font-size: 7px&quot;&gt;Castello di Sammezzano&amp;nbsp;&amp;nbsp;&lt;br&gt;(Toscana)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="168" y="603.28" width="96" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="znbyDa7xrFpO8QKfd5y--25" value="&lt;b style=&quot;font-size: 7px&quot;&gt;Parco degli &lt;br&gt;Acquedotti&lt;br&gt;&amp;nbsp;(Lazio)&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="274.5" y="610.28" width="48" height="52" as="geometry" />
+        <mxCell id="znbyDa7xrFpO8QKfd5y--25" value="&lt;b style=&quot;font-size: 7px&quot;&gt;Parco degli Acquedotti&lt;br&gt;&amp;nbsp;(Lazio)&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="166" y="684.9999999999999" width="86" height="36" as="geometry" />
         </mxCell>
         <mxCell id="znbyDa7xrFpO8QKfd5y--26" value="" style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=0;resizeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="164.12" y="680.35" width="98" height="76" as="geometry" />
+          <mxGeometry x="164.5" y="645" width="195.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="znbyDa7xrFpO8QKfd5y--27" value="" style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=0;resizeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="262.12" y="680.35" width="98" height="76" as="geometry" />
+          <mxGeometry x="164" y="728" width="196" height="41" as="geometry" />
         </mxCell>
         <mxCell id="znbyDa7xrFpO8QKfd5y--28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-128.png;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="219.12" y="693.28" width="38" height="38" as="geometry" />
+          <mxGeometry x="318" y="650.9999999999999" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="znbyDa7xrFpO8QKfd5y--29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-128.png;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="322.12" y="693.28" width="38" height="38" as="geometry" />
+          <mxGeometry x="318" y="730.9999999999999" width="38" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="znbyDa7xrFpO8QKfd5y--30" value="&lt;b style=&quot;font-size: 7px&quot;&gt;&lt;font style=&quot;font-size: 7px&quot;&gt;Giardino dei&lt;br&gt;Tarocchi&lt;br&gt;&amp;nbsp;(Toscana)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="170.62" y="686.2800000000001" width="51" height="52" as="geometry" />
+        <mxCell id="znbyDa7xrFpO8QKfd5y--30" value="&lt;b style=&quot;font-size: 7px&quot;&gt;&lt;font style=&quot;font-size: 7px&quot;&gt;Giardino dei&amp;nbsp; Tarocchi&lt;br&gt;&amp;nbsp;(Toscana)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="166" y="641.2799999999999" width="83" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="znbyDa7xrFpO8QKfd5y--31" value="&lt;b style=&quot;font-size: 7px&quot;&gt;Giardino di&amp;nbsp;&lt;br&gt;Ninfa&lt;br&gt;&amp;nbsp;(Lazio)&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="274.12" y="686.28" width="49" height="52" as="geometry" />
+        <mxCell id="znbyDa7xrFpO8QKfd5y--31" value="&lt;b style=&quot;font-size: 7px&quot;&gt;Giardino di&amp;nbsp; Ninfa&lt;br&gt;&amp;nbsp;(Lazio)&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="166" y="725.9999999999999" width="68" height="36" as="geometry" />
         </mxCell>
         <mxCell id="znbyDa7xrFpO8QKfd5y--32" value="&lt;b&gt;Per vedere i punti di interesse&lt;br&gt;vicino alla tua posizione&amp;nbsp;&lt;br&gt;corrente clicca qui&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="175" y="759" width="181" height="46" as="geometry" />
+          <mxGeometry x="168" y="779" width="181" height="46" as="geometry" />
         </mxCell>
         <mxCell id="6crLyNDoP0vlK_IK_3bL-1" value="Inserirà le sue preferenze riguardo&amp;nbsp;&lt;br&gt;ai monumenti e località&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="471" y="22" width="197" height="32" as="geometry" />
@@ -562,10 +562,10 @@
           <mxGeometry x="255.5" y="348" width="92" height="12" as="geometry" />
         </mxCell>
         <mxCell id="skcHrhG9XVS3jM9Qh6rv-3" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Italiano&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iComboBox;spacingTop=2;spacingLeft=2;align=left;strokeColor=#444444;fontColor=#666666;buttonText=;fontSize=8;fillColor=#dddddd;fillColor2=#3D5565;" parent="1" vertex="1">
-          <mxGeometry x="571" y="548.14" width="62.5" height="15" as="geometry" />
+          <mxGeometry x="577" y="548.14" width="62.5" height="15" as="geometry" />
         </mxCell>
         <mxCell id="lUZd6-PeK5x5g7CoN7_V-1" value="&lt;font color=&quot;#0000cc&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;Clicca qui&lt;/u&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="227" y="812" width="71" height="19" as="geometry" />
+          <mxGeometry x="179.5" y="822" width="71" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
