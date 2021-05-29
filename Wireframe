@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T17:38:21.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Dw1o6HN6vSZx0Xml6b17" version="14.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-29T08:34:42.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="HIVry6eCSUf-7hwgctsN" version="14.7.2" type="github" pages="2">
   <diagram id="onDglWTA5hpyqjm8RfDw" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -415,7 +415,7 @@
         <mxCell id="60glKKd8_XzjO1B035KU-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_play_arrow_48px-128.png" parent="1" vertex="1">
           <mxGeometry x="1199" y="692.49" width="40.23" height="40.23" as="geometry" />
         </mxCell>
-        <mxCell id="60glKKd8_XzjO1B035KU-20" value="INVIA" style="rounded=1;strokeColor=#001DBC;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;labelBackgroundColor=none;fillColor=#0050ef;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="60glKKd8_XzjO1B035KU-20" value="&lt;b&gt;AGGIUNGI&lt;/b&gt;" style="rounded=1;strokeColor=#001DBC;html=1;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;labelBackgroundColor=none;fillColor=#0050ef;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1137" y="751" width="86" height="33" as="geometry" />
         </mxCell>
         <mxCell id="l8vlGstwrfVdpS5H52ob-1" value="S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -564,7 +564,7 @@
         <mxCell id="skcHrhG9XVS3jM9Qh6rv-3" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Italiano&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iComboBox;spacingTop=2;spacingLeft=2;align=left;strokeColor=#444444;fontColor=#666666;buttonText=;fontSize=8;fillColor=#dddddd;fillColor2=#3D5565;" parent="1" vertex="1">
           <mxGeometry x="577" y="548.14" width="62.5" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="lUZd6-PeK5x5g7CoN7_V-1" value="&lt;font color=&quot;#0000cc&quot; size=&quot;1&quot;&gt;&lt;u style=&quot;font-size: 14px&quot;&gt;Clicca qui&lt;/u&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="lUZd6-PeK5x5g7CoN7_V-1" value="&lt;font color=&quot;#0000cc&quot; size=&quot;1&quot;&gt;&lt;u style=&quot;font-size: 14px&quot;&gt;Clicca qui&lt;/u&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="168" y="831" width="71" height="20" as="geometry" />
         </mxCell>
       </root>
